@@ -1,0 +1,17 @@
+{
+  "name": "xoticbot",
+  "version": "1.0.0",
+  "description": "A new bot made by Exploit",
+  "main": "xbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exploit",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "snekfetch": "^4.0.4",
+    "twemoji": "^11.0.1"
+  }
+}
