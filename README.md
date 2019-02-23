@@ -1,3 +1,6 @@
-Source for xotic bot
+**Source for XoTic Bot**
 
-More is planned to be released with this source soon. as far as I know nothing here is deprecated
+More might be released eventually -
+
+Add credit to your bot towards Exploit#!337 for making this.
+If you don't add credit I will either get your bot taken down or expose you
